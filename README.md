@@ -1,4 +1,3 @@
-Piškvorky
 Projekt Piškvorky je desktopová aplikace vytvořená v programovacím jazyce C# s využitím Windows Forms. Aplikace umožňuje hru dvou hráčů na jednom počítači.
 
 Hráči se střídají v umisťování symbolů X a O na hrací plochu. Cílem hry je vytvořit souvislou řadu alespoň pěti stejných symbolů v horizontálním, vertikálním nebo diagonálním směru.
